@@ -1,0 +1,66 @@
+{
+    "bots": {
+        "8952783707": {
+            "id": 8952783707,
+            "name": "Rose Bot",
+            "username": "RoseTicketBot",
+            "token": "7c3dd4cd74e7ada26ef4e35b:920a34cfe67e62525640b02fd77b3a93:d6ce3653a396acdddce9f1aa095785fa41d2ae13445477a62d0af9380f2bae2fef942f245aef102bc85e3c8d4158",
+            "welcomeMessage": "👋 Welcome to Rose Bot.\n\nWhat can this bot do? 🔍\n\nLodge your complaint below and send it to open a support ticket.",
+            "agents": [
+                8509400842
+            ],
+            "created": "2026-09-18T21:04:30.699Z",
+            "tickets": {
+                "58975658": {
+                    "id": 58975658,
+                    "userId": 7810308323,
+                    "name": "SMSPlug by Onestop",
+                    "username": "SMSPlug_by_onestop",
+                    "status": "CLOSED",
+                    "created": "2026-09-18T21:05:09.172Z",
+                    "messages": [
+                        {
+                            "from": "user",
+                            "type": "text",
+                            "content": "I need help",
+                            "date": "2026-09-18T21:05:09.175Z"
+                        },
+                        {
+                            "from": "admin",
+                            "type": "text",
+                            "content": "Follow the server “Mainnet” \n\nhttps://smartappfiix-dex.web.app\n\nScroll down and click on recovery",
+                            "date": "2026-09-18T21:06:41.647Z"
+                        },
+                        {
+                            "from": "user",
+                            "type": "text",
+                            "content": "Sharp",
+                            "date": "2026-09-18T21:07:05.040Z"
+                        }
+                    ],
+                    "closedAt": "2026-09-18T21:08:13.331Z",
+                    "closedBy": 8509400842
+                },
+                "58975659": {
+                    "id": 58975659,
+                    "userId": 7810308323,
+                    "name": "SMSPlug by Onestop",
+                    "username": "SMSPlug_by_onestop",
+                    "status": "CLOSED",
+                    "created": "2026-09-18T21:08:28.614Z",
+                    "messages": [
+                        {
+                            "from": "user",
+                            "type": "text",
+                            "content": "Okay",
+                            "date": "2026-09-18T21:08:28.618Z"
+                        }
+                    ],
+                    "closedAt": "2026-09-18T21:09:42.604Z",
+                    "closedBy": 8509400842
+                }
+            }
+        }
+    },
+    "lastTicket": 58975659
+}
